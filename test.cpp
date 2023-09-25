@@ -6,4 +6,5 @@ void func() {
     int b=2;
     int c=3;
     int cao=0;
+    int fuck=3;
 }
